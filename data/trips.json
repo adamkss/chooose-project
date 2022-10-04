@@ -1,0 +1,31 @@
+{
+  "trips": [
+    {
+      "id": "d23d2a12-4d2c-47fd-84f8-e42f66dcc0e0",
+      "imageSrc": "https://images.unsplash.com/photo-1633494974123-c66ad1b1fc9b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80",
+      "name": "European Quest",
+      "numberOfCountriesCovered": 8,
+      "numberOfDays": 21,
+      "emissionsOffset": "810 kg",
+      "rating": 4.7
+    },
+    {
+      "id": "db63a815-8ce7-4fa2-8165-766b07af57b0",
+      "imageSrc": "https://images.unsplash.com/photo-1508264165352-258db2ebd59b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=988&q=80",
+      "name": "Autumn Roadtrip",
+      "numberOfCountriesCovered": 1,
+      "numberOfDays": 14,
+      "emissionsOffset": "3.56 t",
+      "rating": 4.7
+    },
+    {
+      "id": "c3f3f691-edb3-4d84-8d0b-6f7dea46b021",
+      "imageSrc": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80",
+      "name": "Diving adventure in Egypt",
+      "numberOfCountriesCovered": 1,
+      "numberOfDays": 5,
+      "emissionsOffset": "6.92 t",
+      "rating": 4.7
+    }
+  ]
+}
